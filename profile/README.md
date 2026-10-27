@@ -1,6 +1,6 @@
 hii i'm rayne. I'm a high schooler in the Pacific Northwest and have been programming for nine years. I use a DELL Inspiron 15 3535 laptop running Arch Linux.
 
-I only really use this account for non-personal projects now. My personal projects have migrated to https;//git.rayne.page/rayne and new contributions should be submitted there.
+I only really use this account for non-personal projects now. My personal projects have migrated to https://git.rayne.page/rayne and new contributions should be submitted there.
 
 - Network Engineer, [ScratchStats](https://github.com/ScratchStats-v2)
 - Frontend Developer, [NitroBolt](https://github.com/Nitro-Bolt)
