@@ -2,10 +2,13 @@ hii i'm rayne. I'm a high schooler in the Pacific Northwest and have been progra
 
 I only really use this account for non-personal projects now. My personal projects have migrated to [git.rayne.page](https://git.rayne.page/rayne) and new contributions should be submitted there.
 
+Cool things I'm involved in:
+
 - Network Engineer, [ScratchStats](https://github.com/ScratchStats-v2)
 - Frontend Developer, [NitroBolt](https://github.com/Nitro-Bolt)
 
-#### Previous Involvement
+Previous involvement:
+
 - Founding Archivist, Scratch Archival Project
 - Frontend Developer, Semisocial
 - Frontend Developer, Bark Coding
